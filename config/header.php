@@ -47,7 +47,7 @@ if (isset($_REQUEST['sair'])) {
             });
         </script>
 
-        <title>Modelo Projeto Integrador</title>
+        <title>Modelo Projeto Integrador 2020</title>
     </head>
     <body>
         <div class="container">
